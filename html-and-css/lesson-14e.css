@@ -1,0 +1,58 @@
+div {
+  font-family: Arial, Roboto;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  left: 80px;
+  right: 80px;
+}
+
+.left-side {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.dog {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin-right: 12px;
+}
+.oliver{
+ font-weight: 600;
+}
+
+
+.right-side {
+  display: flex;
+  flex-direction: row;
+}
+
+.add{
+  font-size: 13px;
+  background-color: rgb(0, 132, 255);
+  color: white;
+  text-align: center;
+  width: 90px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  border-radius: 4px;
+  margin-right: 7px;
+}
+
+.message{
+  font-size: 13px;
+  font-weight: 600;
+  background-color: rgb(213, 215, 217);
+  text-align: center;
+  width: 90px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  border-radius: 4px;
+}
+

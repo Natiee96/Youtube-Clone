@@ -1,0 +1,28 @@
+.grid-practice {
+  display: grid;
+  grid-template-columns: 200px 75px;
+ 
+}
+
+.grid-practice2 {
+  display: grid;
+  grid-template-columns: 50px 100% 75px;
+ 
+}
+
+.grid-practice3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+
+
+ 
+}
+
+.first {
+  background-color: lightblue;
+}
+.second {
+  background-color: lightpink;
+}

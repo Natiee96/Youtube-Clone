@@ -1,0 +1,203 @@
+div {
+  font-family: Arial, Roboto;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.item1 {
+  background-color: lightpink;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item2 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.text {
+  color: white;
+  background-color: black;
+}
+
+.text2 {
+  color: white;
+  background-color: black;
+}
+
+.items2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.back {
+  width: 380px;
+  height: 300px;
+  border: none;
+  box-shadow: 0.05px 0.05px 5px grey;
+  margin-top: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+ 
+}
+
+.all {
+  color: gray;
+  font-size: 13px;
+  font-weight: 500;
+  margin-left: 15px;
+  margin-bottom: 21px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  margin-bottom: 15px;
+}
+
+.mini-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 21px;
+  
+  
+
+}
+.thumbnail {
+  width: 40px;
+  margin-left: 15px;
+  margin-right: 12px;
+ 
+}
+ 
+.dog {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+ }
+
+ .time {
+  color: gray;
+  font-size: 12px;
+  margin-right: 20px;
+  margin-left: -40px;
+  margin-right: 10px;
+  align-self: flex-end;
+}
+
+
+
+ .line1 {
+  font-size: 17px;
+  font-weight: 600;
+  width: 200px;
+
+
+ }
+
+ .line2 {
+  font-size: 15px;
+  font-weight: 600;
+  width: 220px;
+ }
+ 
+ .line3 {
+  color: gray;
+  font-size: 14px;
+  width: 290px;
+
+
+ }
+ .words {
+  display: block;
+ }
+
+ .top {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+ }
+
+ .info {
+  margin-left: 8px;
+ 
+ }
+
+ .super {
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  margin-bottom: 3px;
+  
+ }
+ .dev {
+  color: grey;
+  font-weight: 500;
+  margin-left: 5px;
+ }
+ .sentence {
+  width: 350px;
+  line-height: 22px;
+ }
+ .bottom {
+  display: flex;
+  flex-direction: row;
+ }
+ 
+ .youtube {
+  color: gray;
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+ }
+
+ .overview {
+  width: 250px;
+  margin-left: 10px;
+ }
+ 
+ .border {
+  height: 60px;
+  border-style: solid;
+  border-color: rgb(184, 183, 183);
+  border-width: 1px;
+  width: 340px;
+  border-radius: 15px;
+  height: 90px;
+  margin-left: 45px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+ }
+
+ .part {
+  margin-top: 15px;
+ }
+ .button {
+  background-color: rgb(184, 183, 183);
+  width: 130px;
+  height: 90px;
+  border-bottom-left-radius: 13px;
+  border-top-left-radius: 13px;
+ }
+
+
+
+
+
+
+
+
+
+
+

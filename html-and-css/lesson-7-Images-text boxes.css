@@ -1,0 +1,104 @@
+.image {
+  width: 200px;
+  border-radius: 15px;
+}
+
+.image2 {
+  width: 150px;
+  height: 150px;
+  position: center;
+}
+
+.image3 {
+ width: 150px;
+ height: 150px;
+ border-radius: 80px;
+}
+
+.search-bar7d {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: grey;
+}
+
+.search-bar7e {
+  font-size: 15px;
+  width: 400px;
+  padding-left: 20px;
+  padding-right: 150px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: white;
+  box-shadow: 1px 1px 3px 3px  rgb(220, 220, 222);
+  border: none;
+  border-radius: 18px;
+}
+
+.email {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: lighter;
+  margin-bottom: 8px;
+  color: rgb(91, 91, 91);
+}
+.search-bar7f {
+  width: 368px;
+  height: 35px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 4px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.description {
+  font-family: Arial;
+  width: 380px;
+  font-size: 15px;
+  color: rgb(91, 91, 91);
+ 
+}
+.joinbutton {
+  font-family: Arial;
+  background-color: rgb(0, 89, 255);
+  width: 378px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 40px;
+}
+.twitterprofile {
+  width: 60px;
+  height: 60px;
+  border-radius: 80px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.placeholder {
+  font-family: Arial;
+  font-size: 20px;
+  color: grey;
+  vertical-align: middle;
+  margin-right: 100px;
+}
+
+.tweetbutton {
+  background-color: rgb(0, 157, 255);
+  color: white;
+  font-weight: 600;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 17px;
+  padding-right: 17px;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 110px;
+  vertical-align: middle;
+}
